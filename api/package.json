@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "private": true,
+  "dependencies": {
+    "decimal.js": "^10.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@vercel/node": "^5.5.16"
+  }
+}
