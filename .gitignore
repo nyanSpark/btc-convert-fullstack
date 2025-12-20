@@ -1,0 +1,6 @@
+node_modules
+.vercel
+.env
+web/dist
+web/node_modules
+.env*.local
